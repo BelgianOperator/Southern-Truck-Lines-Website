@@ -20,6 +20,11 @@ body {
   padding-top: 120px;
 }
 
+.head2 {
+  color: #76a1ef;
+  padding-bottom: 30px;
+  padding-top: 50px;
+}
 .subhead {
   color: #76a1ef;
   padding-top: 180px;
@@ -100,4 +105,9 @@ body {
 
 .img {
   padding-top: 5%;
+}
+
+.text {
+  width:65%;
+  margin:auto;
 }
