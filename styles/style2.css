@@ -111,3 +111,17 @@ body {
   width:65%;
   margin:auto;
 }
+
+.list-group-item {
+  text-align:left;
+  width:auto;
+  margin:auto;
+  background-color:#303030;
+  color: #bed7f9;
+  border-color:#303030;
+}
+
+.division {
+  margin:auto;
+  width:auto;
+}
