@@ -103,11 +103,21 @@ body {
   background-color: #fff;
   color: black;
 }
+
+.navbarimage {
+  line-height:0em;
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  margin-right: 1rem;
+  margin-left: 0.5rem;
+}
+
 .navbar1 {
   color: white;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 18px;
   margin-bottom:0px;
+  margin-top:0px;
 }
 
 .img {
