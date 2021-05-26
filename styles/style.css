@@ -9,6 +9,7 @@ body {
   max-width: 100%;
   overflow-x: hidden;
 }
+
 .container {
   text-align: center;
   width: 75%;
@@ -16,6 +17,7 @@ body {
   padding-top: 8%;
   border-radius:25%;
 }
+
 .box-1 {
   background-color: #bed7f9;
   color: #303030;
