@@ -133,14 +133,15 @@ body {
   text-align: left;
   width: auto;
   margin: auto;
-  background-color: #303030;
+  background-color: #252525;
   color: #bed7f9;
-  border-color: #303030;
+  border-color: #252525;
 }
 
 .division {
   margin: auto;
   width: auto;
+  padding-bottom: 45px;
 }
 
 .test {
@@ -152,16 +153,22 @@ html {
   height: 100%;
 }
 
-.parallax {
+.parallax { 
   /* The image used */
-  background-image: url("img_parallax.jpg");
+  background-image: url(/images/cover.png);
 
-  /* Full height */
-  height: 100%;
+  /* Set a specific height */
+  min-height: 500px; 
+  min-width: 100%;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.section {
+  background-color:#252525;
+  margin:0px;
 }
