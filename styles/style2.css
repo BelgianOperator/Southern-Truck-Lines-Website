@@ -11,6 +11,7 @@ body {
 .head {
   color: #76a1ef;
   padding-top: 50px;
+  padding-bottom: 30px;
 }
 
 .head1 {
@@ -29,6 +30,12 @@ body {
   color: #76a1ef;
   padding-top: 50px;
   padding-bottom: 50px;
+}
+
+.head4 {
+  color: #76a1ef;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 
 .subhead {
