@@ -108,6 +108,17 @@ body {
   color: black;
 }
 
+.button4 {
+  background-color: #303030;
+  color: #bed7f9;
+  border: 2px solid #fff;
+}
+
+.button4:hover {
+  background-color: #fff;
+  color: black;
+}
+
 .navbarimage {
   line-height: 0em;
   padding-top: 1rem;
