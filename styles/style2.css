@@ -9,7 +9,7 @@ body {
   padding-bottom: 10%;
 }
 .head {
-  color: #76a1ef;
+  color: black;
   padding-top: 50px;
   padding-bottom: 30px;
 }
@@ -81,7 +81,7 @@ body {
 
 .button1:hover {
   background-color: #fff;
-  color: black;
+  color: #303030;
 }
 
 .button2 {
@@ -140,6 +140,7 @@ body {
 }
 .img {
   padding-top: 5%;
+
 }
 
 .text {
@@ -171,21 +172,6 @@ html {
   height: 100%;
 }
 
-.parallax { 
-  /* The image used */
-  background-image: url(/images/cover.png);
-
-  /* Set a specific height */
-  min-height: 500px; 
-  min-width: 100%;
-
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 .section {
   background-color:#252525;
   margin:0px;
@@ -193,4 +179,21 @@ html {
 
 .fleet {
   margin: 5%;
+}
+
+.box-1 {
+  background-color: #bed7f9;
+  color: #303030;
+  padding-bottom: 80px;
+  padding-top: 50px;
+  padding-bottom:50px;
+  font-size: smaller;
+  border-radius: 25px;
+  width: 75%;
+  margin: auto;
+}
+
+.padding {
+  padding-top: 5%;
+  padding-bottom: 10%;
 }
