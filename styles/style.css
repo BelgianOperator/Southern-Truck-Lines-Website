@@ -15,7 +15,7 @@ body {
   width: 95%;
   margin: auto;
   padding-top: 2%;
-  border-radius:25%;
+  
 }
 
 .box-1 {
@@ -23,8 +23,10 @@ body {
   color: #303030;
   padding-bottom: 80px;
   padding-top: 50px;
+  padding-bottom:25px;
   font-size: smaller;
-  border-radius:25px;
+  border-bottom-left-radius:25px;
+  border-bottom-right-radius:25px;
 }
 
 .button {
@@ -57,4 +59,5 @@ body {
   border-radius:25px;
   border-width:5px;
   border-color:black;
+  padding-top: 25px;
 }
