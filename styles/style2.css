@@ -179,14 +179,14 @@ html {
 
 .fleet {
   margin: 5%;
+  text-align: center;
 }
 
 .box-1 {
   background-color: #bed7f9;
   color: #303030;
-  padding-bottom: 80px;
-  padding-top: 50px;
-  padding-bottom:50px;
+  padding-bottom: 25px;
+  padding-top: 25px;
   font-size: smaller;
   border-radius: 25px;
   width: 75%;
@@ -196,4 +196,9 @@ html {
 .padding {
   padding-top: 5%;
   padding-bottom: 10%;
+}
+
+.buttons {
+  text-align: center;
+  margin: auto;
 }
