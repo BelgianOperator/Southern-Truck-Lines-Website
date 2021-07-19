@@ -1,32 +1,33 @@
-body {
+html, body {
   background: #303030;
   color: #555555;
   text-align: center;
   font: normal 22px Arial, Helvetica, sans-serif;
 
   line-height: 1.6em;
-  margin: 0;
-  max-width: 100%;
-  overflow-x: hidden;
+  margin: auto;
 }
 
-.container {
+.section {
   text-align: center;
   width: 95%;
-  margin: auto;
-  padding-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  padding-bottom: 25px;
   
 }
 
 .box-1 {
   background-color: #bed7f9;
   color: #303030;
-  padding-bottom: 80px;
-  padding-top: 50px;
+  padding-top: 0;
   padding-bottom:25px;
   font-size: smaller;
   border-bottom-left-radius:25px;
   border-bottom-right-radius:25px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
 }
 
 .button {
@@ -60,4 +61,6 @@ body {
   border-width:5px;
   border-color:black;
   padding-top: 25px;
+  padding-bottom: 25px;
+  width: 95%;
 }
