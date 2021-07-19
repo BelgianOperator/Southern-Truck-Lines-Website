@@ -26,8 +26,8 @@ html, body {
   font-size: smaller;
   border-bottom-left-radius:25px;
   border-bottom-right-radius:25px;
-  border-top-left-radius: 30px;
-  border-top-right-radius: 30px;
+  border-top-left-radius: 1000000px;
+  border-top-right-radius:1000000px;
 }
 
 .button {
