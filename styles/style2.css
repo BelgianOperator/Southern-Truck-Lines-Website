@@ -8,7 +8,14 @@ body {
   overflow-x: hidden;
   padding-bottom: 10%;
 }
+
 .head {
+  color: #76a1ef;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.head0 {
   color: black;
   padding-top: 50px;
   padding-bottom: 30px;
@@ -77,6 +84,8 @@ body {
   color: #bed7f9;
   border: 2px solid #fff;
   margin-right: 15px;
+  padding: 25px 55px;
+  font-size: 20px;
 }
 
 .button1:hover {
@@ -174,7 +183,11 @@ html {
 
 .section {
   background-color:#252525;
-  margin:0px;
+  margin:auto;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  width: 95%;
+
 }
 
 .fleet {
